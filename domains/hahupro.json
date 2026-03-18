@@ -6,6 +6,9 @@
     "email": "hamussein01@gmail.com"
   },
   "records": {
-    "CNAME": "cname.vercel-dns.com"
+    "CNAME": "cname.vercel-dns.com",
+    "TXT": [
+      "vc-domain-verify=www.hahupro.is-a.dev,65b5e75d6dc19405bfce"
+    ]
   }
 }
